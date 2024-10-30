@@ -256,4 +256,9 @@ ul {
     display: flex;
     flex-direction: column;
   }
+
+  .heroes-size {
+    height: 50%;
+    width: 100%;
+  }
 }
